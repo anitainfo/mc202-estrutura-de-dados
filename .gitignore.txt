@@ -1,0 +1,14 @@
+# Compilados C
+*.o
+*.out
+*.exe
+*.a
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+
+# Outros
+__pycache__/
+build/
