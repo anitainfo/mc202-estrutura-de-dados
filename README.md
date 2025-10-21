@@ -11,6 +11,7 @@ Cada laboratório pode ser compilado separadamente:
 ```bash
 gcc lab01/main.c -o lab01.out
 ./lab01.out
+```
 
 ## 🧩 Tecnologias
 
