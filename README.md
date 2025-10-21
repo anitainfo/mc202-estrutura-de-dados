@@ -1,17 +1,6 @@
 # 🧠 MC202 – Estruturas de Dados (Unicamp)
 
-Repositório com laboratórios, listas de exercícios e exemplos da disciplina **MC202 – Estruturas de Dados**, ministrada na Unicamp.
-
----
-
-## 📚 Conteúdo
-
-- **Lab 01:** Revisão de C e alocação dinâmica  
-- **Lab 02:** Listas encadeadas  
-- **Lab 03:** Pilhas e filas  
-- **Lab 04:** Árvores binárias  
-- **Lab 05:** Tabelas hash  
-- **Lab 06:** Grafos e busca em largura/profundidade  
+Repositório com laboratórios e exercícios extras da disciplina **MC202 – Estruturas de Dados**, ministrada na Unicamp.
 
 ---
 
